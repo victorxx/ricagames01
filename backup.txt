@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="index,follow">
+    <meta name="description" content="a história completa do nosso querido amigo rica games o mais conhecido do youtube">
+    <meta name="keywords" content="ricagames,rica,conhecido,rica,o melhor youtuber do mundo">
+    <title>História de Ricardo Silva Gonçalves</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 40px;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+        #piscar {
+            background-color: red;
+            width: 90%;
+            max-width: 600px;
+            padding: 15px;
+            border-radius: 10px;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 10px;
+            font-size: 1rem;
+            animation: piscar 30s infinite alternate;
+            user-select: none;
+            text-align: center;
+        }
+
+        #piscar a {
+            color: white;
+            text-decoration: none;
+            background-color: #222;
+            padding: 8px 12px;
+            border-radius: 5px;
+            transition: background 0.8s;
+        }
+
+        #piscar a:hover {
+            background-color: #444;
+        }
+
+        @keyframes piscar {
+            0% { opacity: 1; }
+            100% { opacity: 0; }
+        }
+
+        #conteudo {
+            width: 90%;
+            max-width: 800px;
+            border: 2px solid aquamarine;
+            padding: 20px;
+            font-size: 1rem;
+            line-height: 1.6;
+            background-color: #111;
+            border-radius: 8px;
+        }
+
+        #conteudo h2 {
+            margin-top: 0;
+            font-size: 1.5rem;
+            color: aquamarine;
+        }
+
+        #conteudo p {
+            margin-bottom: 1em;
+        }
+
+        #conteudo em {
+            color: #aaa;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="piscar"></div>
+
+                                                        <div id="conteudo">
+                                                            <h2>História de Ricardo Silva Gonçalves</h2>
+
+                                                        <p><em>Ricardo feliz por jogar Destiny pirata online no seu foderoso Xbox 360 acompanhado de Spike, seu fiel cachorro.</em></p>
+
+                                                        <p><strong>“Sou uma Pessoa Isolado dentro de meu quarto, a vida não passa de dinheiro e aparência! Já era.”</strong> – Ricardo da Silva Gonçalves, 2013</p>
+
+                                                        <p>Ricardo criou o canal <strong>Ricad0666</strong> quando o YouTube não era tão grande, isso em 2006, na época em que ele era cabeludo. Ele postou vídeos aleatórios até 2010-11, quando começou a fazer vídeos de Xbox também (gameplays, opiniões, dancinhas, etc). Depois disso, ele vinha ganhando muitos haters caixistas que não gostavam que ele associava Xbox com pirataria.</p>
+
+                                                        <p>Em 2012, um cara preparou um bait, dando um MSN de uma menor de idade. Ricardo não sabia que ela era menor e chegou a mandar fotos pessoais (talvez até tenha sido o próprio cara se passando por ela). Ela gravou tudo e expôs no YouTube, o que gerou denúncias em massa. O canal foi deletado com 1350 inscritos, o que era muito na época.</p>
+
+                                                        <p>Quem acompanhou esse canal jamais imaginaria que Ricardo se tornaria o “Cara de Psicopata”, pois ele se dizia um “garanhão” marombeiro, mesmo levando foras ao vivo no Bate Papo UOL. Isso gerou rancor e ele passou a atacar mulheres em seus vídeos.</p>
+
+                                                        <p><em>(Alguns vídeos da era antiga do Ricardo)</em></p>
+
+                                                        <p><em>(O suposto bait com link da foto do Ricardo na descrição...)</em></p>
+
+                                                        <p>Mais tarde, criou o canal <strong>Ricardo Silva</strong>, voltado para games, repetindo o conteúdo anterior. Ficou famoso com vídeos de dancinhas como ‘PS3 Rodela’ e ‘PS3 Serrilhadão’, muito compartilhados em fóruns e comunidades do Orkut.</p>
+
+                                                        <p>Com isso, atraiu muitos haters sonystas e caixistas, ganhando o título de “o cara mais odiado do YouTube”. A fama veio acompanhada de pressão e ele começou a fazer vídeos “ofensivos” para forçar o encerramento do canal, abordando temas como redpill, desabafos pessoais e descaso com higiene.</p>
+
+                                                        <p>O canal foi excluído não por esses vídeos, mas por strikes de direito autoral em seus vídeos de dancinha. Na época, também criou o canal secundário ‘Azar de Vida’, mas o deletou por inatividade.</p>
+
+                                                        <p><em>(Alguns vídeos da famosa era dourada de Ricardo Silva)</em></p>
+
+                                                        <p>Em 2013, ele voltou com o canal <strong>Rica Games</strong> (inicialmente chamado Queima Mídia Gamers). No início, disse que não faria vídeos, só assistiria. No segundo dia, afirmou que não produzia por demorar demais para renderizar.</p>
+
+                                                        <p>Com as dúvidas sobre sua identidade, gravou um vídeo e confirmou ser ele mesmo. E assim, no dia 11/02/2013, nasceu a lenda: <strong>Rica Games</strong>.</p>
+                                                        <p>Cquote1.png Você quis dizer: Vin Diesel? Cquote2.png                                                                                                <p>
+                                                                                                                                                                                                                Google sobre Rica Games
+                                                                                                                                                                Cquote1.png Você quis dizer: Jailson Mendes? Cquote2.png
+                                                                                                                                                                Google sobre Rica Games</p>
+                                                                                                                                                                <p>
+                                                                                                                                                                Cquote1.png Que delícia de canal, cara! Cquote2.png
+                                                                                                                                                                Jailson Mendes sobre canal do Rica Games
+                                                                                                                                                                Cquote1.png Esse é nosso parça! Cquote2.png
+                                                                                                                                                                Xbox Mil Grau sobre Rica Games
+                                                                                                                                                                Cquote1.png Vai trabalhar vagabundo! Cquote2.png
+                                                                                                                                                                pessoa qualquer sobre Rica Games</p>
+                                                                                                                                                                <p>
+                                                                                                                                                                Cquote1.png Machista! Fascista! Caixista! Cquote2.png
+                                                                                                                                                                Feminista sobre Rica Games
+                                                                                                                                                                Cquote1.png Lúcido! Um homem a frente de seu tempo. Cquote2.png
+                                                                                                                                                                Channer sobre Rica Games
+                                                                                                                                                                Cquote1.png Porcaria né Spike? Cquote2.png
+                                                                                                                                                                Rica Games sobre esse artigo.
+                                                                                                                                                                </p>
+
+                                                                                                                                                                Ricardo Pereira da Silva Cunha, vulgo Rica Games ou também chamado de Cara de psicopata pelas mulheres, é um youtuber brazuca que traz gameplay de jogos Indie pirateax no seu Xís Caixa 360, em que grava os vídeos no quarto da casa com paredes sujas da mãe que o sustenta com sua aposentadoria de INSS, já que para ele, O ruim é ter que trabalhar.
+
+
+                                                                                                                                                               <p>
+                                                                                                                                                               
+                                                                                                                                                                Pouco se sabe sobre o passado deste bicho bizarro, até porque ele sempre viveu isolado em casa e não tem nada de interessante ou criativo pra perder tempo escrevendo aqui. Apenas dizer que Rica não terminou a faculdade (ou talvez nunca fez curso) e não trabalha, e que por ter sofrido um acidente tendo sua cabeça esmagada por um trator, Rica desenvolveu problemas mentais como esquizofrenia e por vezes, alguns surtos psicóticos e depressivos, tornando-se incapaz de ingressar no mercado de trabalho e fadado a morar sozinho com sua mãe e seu Pinscher chamado de Spike (que depois ele o renomeou como Bipo), passando todo o seu tempo livre que tem de sobra jogando games pirateados logado na Xbox Live, se masturbando com trapzinhas massa de madrugada e enchendo a cara de rivotril pra passar o tempo dormindo durante o dia. Por dar lições sobre como são as mulheres reclamar da miséria no Brasil e gravar gameplays massa, tornou-se ídolo por parte do submundo da deep web, sendo até visto como um guru. Rica também é um tremendo fanboy de Xbox (ou melhor, caixista), por ser pobre e não ter dinheiro pra comprar um Pleisteixo e seus jogos originais ou ganhar do Yudi no Bom Dia & Cia. pois não tem nem um tostão pra se deslocar pra pegar o prêmio, já tendo feito um hit musical onde cantava sobre quem prefere Playstation dá o cuzinho e que Xbox é game de macho. [carece de fontes]
+
+                                                                                                                                                                Sexualidade e relação com mulheres
+
+                                                                                                                                                                <strong>Rica viajando com um avião da Al Qaeda para levar seu Xbox ao conserto no Japão.</strong>
+                                                                                                                                                                Cquote1.png Mulher fede! Tudo dela fede. Perereca fede, o rabo fede, a boca fede, os peito fede, tudo fede! 
+                                                                                                                                                                Rica Games.
+
+                                                                                                                                                                Com exceção de sua mãe, Rica é um misógino convicto odeia mulheres por seu azar e incompetência em pegar mulher cair a ficha de que mulher é um ser interesseiro e materialista por natureza, que na primeira oportunidade vai dar o bote e depois voltam chorando pedindo pra reatar por benefício materialista, embora existam pistas de que ele tomou um exposed de uma webnamorada por pedir nudes no MSN, antes de começar o seu canal de bosta , e daí viria esse ódio.
+
+                                                                                                                                                                O youtuber já declarou que se pudesse virar gay ele viraria já que ele prefere travestis a mulheres de verdade, ou então virar muçulmano e se mudar para o Oriente Médio e conseguir um emprego, se alistando no Estado Islâmico.
+
+                                                                                                                                                                Desaparecimento e teorias de seu paradeiro
+                                                                                                                                                                Cquote1.png Ne bipo amanha mais gameplays Cquote2.png
+                                                                                                                                                                Rica Games antes de sumir da web.
+                                                                                                                                                                </p>
+
+                                                                                                                                                                Alguns dizem que ele simplesmente se cansou de fazer vídeos e voltou a sua rotina de vida jogando, outros porém vão além e fazem teorias sobre o estado atual desse bixo:
+
+                                                                                                                                                                Dizem que ele estava tão desapontado com a realidade fodida e incurável do país além do agravante dos problemas mentais que cometeu suicídio.
+                                                                                                                                                                Que ele tomou tanto rivotril que ele entrou em um coma incurável, sonhando estar em uma realidade de jogo Indie, se casando com uma trap.
+                                                                                                                                                                Ele sequestrou um avião para sair do Brasil e ir morar no Iraque, levando também o seu Xbox.
+                                                                                                                                                                Numa rara noite onde ele não tá fapando e nem se dopando, ele resolveu sair pra se exercitar e caindo numa dimensão paralela onde reina o ar de pobreza para sempre.
+                                                                                                                                                                Ou a mais provável de todas: A câmera dele queimou e tocou o Foda-se, que não iria mais gravar vídeos. Pois não tinha dinheiro para levar sua filmadora pra um conserto, afinal, ele é um pobre fodido.
+
+                                                                                                                                                                =Retorno
+                                                                                                                                                                No final de novembro de 2024 outro YouTuber, Menino Thomas, conseguiu encontrar o Rica Games ao vivo e segundo o próprio Rica, ele teria sumido porque o FBI queria matar ele (LOL!) Hoje em dia ele caiu em decadência total, batendo no próprio pai, cheirando cocaína ao vivo, tentativa de suicídio ao vivo, bate em si msm e o fundo do poço foi quando ele abriu live as 4 da manhã pra farmar 20 reais pra pagar o traveco. Hoje Rica está no fundo do poço e inclusive foi banido de todos os bares e distribuidores de bebida da região, sendo o mais famoso da Distribuidora do Luiz, após supostamente assediar uma criança de 7 anos</p>
+    </div>
+
+    <script>
+        const frases = [
+            { titulo: "CRÉDITO PESSOAL", href: "https://geocredibnkvitoria.com/" },
+            { titulo: "CONFIRA ESSA OPORTUNIDADE", href: "https://victorxx.github.io/topicogithub01/randomizador.html" },
+            { titulo: "ERP Completo", href: "https://victorxx.github.io/erpgithubrnadom01/" },
+            { titulo: "Airbnb Simulado", href: "https://victorxx.github.io/airbnbrandom01/" },
+            { titulo: "Consórcio e Seguros", href: "https://victorxx.github.io/VPSVENDA/contatoroberto.html" }
+        ];
+
+        const piscarDiv = document.getElementById('piscar');
+        frases.forEach(link => {
+            piscarDiv.innerHTML += `<a href="${link.href}" target="_blank">${link.titulo}</a>`;
+        });
+    </script>
+
+</body>
+</html>
