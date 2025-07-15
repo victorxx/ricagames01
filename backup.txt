@@ -172,7 +172,7 @@
             { titulo: "CRÉDITO PESSOAL", href: "https://geocredibnkvitoria.com/" },
             { titulo: "CONFIRA ESSA OPORTUNIDADE", href: "https://victorxx.github.io/topicogithub01/randomizador.html" },
             { titulo: "ERP Completo", href: "https://victorxx.github.io/erpgithubrnadom01/" },
-            { titulo: "Airbnb Simulado", href: "https://victorxx.github.io/airbnbrandom01/" },
+            { titulo: "Airbnb Comece e comece a ganhar dinheiro com  seu imóvel", href: "https://victorxx.github.io/airbnbrandom01/" },
             { titulo: "Consórcio e Seguros", href: "https://victorxx.github.io/VPSVENDA/contatoroberto.html" }
         ];
 
